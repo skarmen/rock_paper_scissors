@@ -6,4 +6,8 @@ A python program that plays a game of Rock paper Scissors between a human player
 
 Run directly from the terminal 
 
-`python3 rps.py` # rock_paper_scissors
+`python3 rps.py` 
+
+### Game Output 
+
+![Screenshot of the game output in the terminal](rps_output.png)
